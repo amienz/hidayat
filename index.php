@@ -61,6 +61,7 @@
 			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 			<li data-target="#myCarousel" data-slide-to="1"></li>
 			<li data-target="#myCarousel" data-slide-to="2"></li>
+			<li data-target="#myCarousel" data-slide-to="3"></li>
 		</ol>
 		
 	 <!-- Wrapper for slides -->
@@ -86,6 +87,14 @@
 				<div class="carousel-caption">
 					<h3>Saske</h3>
 					<p>Mangekyou sharingan for activated susanoo level 3</p>
+				</div>
+		</div>
+		
+		<div class="item">
+			<img src="gambar/shank2.jpg" class="img-rounded " alt="shanks">
+				<div class="carousel-caption">
+					<h3>Shanks</h3>
+					<p>The uncle of Monkey D. Luffy (son of Monkey D. Dragon)</p>
 				</div>
 		</div>
 		
