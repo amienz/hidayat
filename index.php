@@ -10,45 +10,11 @@
   <link rel="stylesheet" type="text/css" href="cob.css">
 </head>
 <body>
-<div class="container-fluid">
-<div class="row">
-	<div class="col-sm-12">
-	<nav class="nav navbar navbar-default navbar-fixed-top" style="width:80%;margin-left:10%;">
-		<div class="navbar-header"><a class="navbar-brand" href="#">AMIENZ</a></div>
-	<nav class="nav navbar navbar-inverse navbar-fixed-top" style="width:80%;margin-left:10%;">
-		<div class="navbar-header"><a class="navbar-brand" href="#">AMIENZ</a></div>
-			<ul class="nav navbar-nav">
-				<li class="dropdown"><a href="#">TV Series
-					<ul class="dropdown-menu">
-						<li style="margin-top:-10px;"><a href="#">Ongoing</a></li>
-						<li><a href="#">End</a></li>
-					</ul>
-				</li>
-				<li class="dropdown"><a href="#">Movie
-					<ul class="dropdown-menu">
-						<li style="margin-top:-10px;"><a href="#">Ongoing</a></li>
-						<li><a href="#">End</a></li>
-					</ul>
-				</li>
-				<li><a data-toggle="dropdown" href="#">HOT</a></li>
-				<li><a data-toggle="dropdown" href="#">News</a></li>
-				<li><a data-toggle="dropdown" href="#">About</a></li>
-			</ul>
-			
-			<ul class="nav navbar-nav navbar-right">
-				<li style="margin-right:10px;"><a href="#" data-toggle="modal" data-target="#mymodal">
-				<span class="glyphicon glyphicon-user"></span>Log In</a></li>
-			</ul>			
-			<form class="navbar-form navbar-right">
-				<div class="form-group">
-					<input type="text" class="form-control" placeholder="Search . .">
-				</div>
-			</form>
-	</nav>
-	</div>
-<br><br><br>
-</div>
-</div>
+
+<?php 
+ include "navbar.php";
+?>
+
 <div class="container-fluid">
 <div class="row">
 	<div class="col-sm-2">
@@ -169,17 +135,7 @@
 	
 </div>
 </div>
-<div class="container-fluid">
-<div class="row">
 
-	<div class="col-sm-12" style="background: black;padding:5px;">		
-	<div class="col-sm-12" style="background: linear-gradient(to bottom, #003366 0%, #ffffff 100%);">		
-		<center>
-			<h2><p>@2019 by AMEdeveloper</h2></p>
-			<p>IG : amienz0 | FB : Amin Wahit | Twitter : Amienz17</p>
-			<h4>Good game</h4>
-		</center>
-	</div>
-	</div>
-</div>
-</div>
+<?php 
+ include "footer.php";
+?>
