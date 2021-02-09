@@ -31,7 +31,7 @@
 			
 			<ul class="nav navbar-nav navbar-right">
 				<li style="margin-right:10px;"><a href="#" data-toggle="modal" data-target="#mymodal">
-				<span class="glyphicon glyphicon-user"></span>Log In</a></li>
+				<span class="glyphicon glyphicon-user"></span>Login</a></li>
 			</ul>			
 			<form class="navbar-form navbar-right">
 				<div class="form-group">
