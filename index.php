@@ -83,15 +83,13 @@
 		</div>
 	
 		<div class="item">
-			<img src="gambar/saske2jpg" class="img-rounded " alt="saske">
+			<img src="gambar/saske2.jpg" class="img-rounded " alt="saske">
 				<div class="carousel-caption">
 					<h3>Saske</h3>
 					<p>Mangekyou sharingan for activated susanoo level 3</p>
 				</div>
 		</div>
-		
-		
-		
+
 	</div>
 	
 	<!-- Left and right controls -->
