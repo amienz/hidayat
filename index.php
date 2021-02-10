@@ -9,7 +9,7 @@
   <script src="bootstrap-3.3.7-dist/js/bootstrap.js"></script>
   <link rel="stylesheet" type="text/css" href="cob.css">
 </head>
-<body>
+<body style= "background: linear-gradient(to bottom, #003366 0%, #ff0000 100%);">
 
 <?php 
  include "navbar.php";
@@ -67,11 +67,11 @@
 	 <!-- Wrapper for slides -->
 	<div class="carousel-inner">
 		<div class="item active">
-			<img src="gambar/itachi2.jpg" class="img-rounded " alt="itachi">
-			<div class="carousel-caption">
-				<h3>Itachi</h3>
-				<p>The hero of the darkness become a legend</p>
-			</div>
+			<img src="gambar/kirayagami.jpg" class="img-rounded " alt="saske">
+				<div class="carousel-caption">
+					<h3>KIRA YAGAMI</h3>
+					<p>Use Shinigami Death Note to Become The God of New World</p>
+				</div>
 		</div>
 	
 		<div class="item">
@@ -82,12 +82,14 @@
 				</div>
 		</div>
 	
-		<div class="item">
-			<img src="gambar/kirayagami.jpg" class="img-rounded " alt="saske">
-				<div class="carousel-caption">
-					<h3>Saske</h3>
-					<p>Mangekyou sharingan for activated susanoo level 3</p>
-				</div>
+		
+		
+		<div class="item ">
+			<img src="gambar/itachi2.jpg" class="img-rounded " alt="itachi">
+			<div class="carousel-caption">
+				<h3>Itachi</h3>
+				<p>The hero of the darkness become a legend</p>
+			</div>
 		</div>
 
 	</div>

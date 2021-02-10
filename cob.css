@@ -1,8 +1,4 @@
-
 body{
-		background: linear-gradient(to bottom, #003366 0%, #ffffff 100%);
+		background: linear-gradient(to bottom, #003366 0%, #ff99cc 100%);
 		margin:0px;
 	}
-.dropdown:hover .dropdown-menu{
-			display:block;
-		 }
