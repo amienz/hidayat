@@ -85,7 +85,7 @@
 		
 		
 		<div class="item ">
-			<img src="gambar/itachi2jpg" class="img-rounded " alt="itachi">
+			<img src="gambar/itachi2.jpg" class="img-rounded " alt="itachi">
 			<div class="carousel-caption">
 				<h3>Itachi</h3>
 				<p>The hero of the darkness become a legend</p>
