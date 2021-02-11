@@ -25,6 +25,7 @@
 				</li>
 				<li><a data-toggle="dropdown" href="#">HOT</a></li>
 				<li><a data-toggle="dropdown" href="#">News</a></li>
+				
 			</ul>
 			
 			<ul class="nav navbar-nav navbar-right">
