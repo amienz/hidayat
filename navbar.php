@@ -6,10 +6,10 @@
 <div class="container-fluid">
 <div class="row">
 	<div class="col-sm-12">
-	<nav class="nav navbar navbar-default navbar-fixed-top" style="width:80%;margin-left:10%;">
-		<div class="navbar-header"><a class="navbar-brand" href="#">AMIENZ</a></div>
-	<nav class="nav navbar navbar-inverse navbar-fixed-top" style="width:80%;margin-left:10%;">
-		<div class="navbar-header"><a class="navbar-brand" href="#">AMIENZ</a></div>
+	<nav class="nav navbar navbar-default navbar-fixed-top" >
+		<div class="navbar-header"><a class="navbar-brand" href="#">AME</a></div>
+	<nav class="nav navbar navbar-inverse navbar-fixed-top" >
+		<div class="navbar-header"><a class="navbar-brand" href="#">AME</a></div>
 			<ul class="nav navbar-nav">
 				<li class="dropdown"><a href="#">TV Series
 					<ul class="dropdown-menu">

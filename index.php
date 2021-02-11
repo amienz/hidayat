@@ -69,7 +69,7 @@
 		<div class="item active">
 			<img src="gambar/kirayagami.jpg" class="img-rounded " alt="saske">
 				<div class="carousel-caption">
-					<h3>KIRA YAGAMI</h3>
+					<h3>Kira Yagami</h3>
 					<p>Use Shinigami Death Note to Become The God of New World</p>
 				</div>
 		</div>
@@ -85,7 +85,7 @@
 		
 		
 		<div class="item ">
-			<img src="gambar/itachi2.jpg" class="img-rounded " alt="itachi">
+			<img src="gambar/itachi2jpg" class="img-rounded " alt="itachi">
 			<div class="carousel-caption">
 				<h3>Itachi</h3>
 				<p>The hero of the darkness become a legend</p>
