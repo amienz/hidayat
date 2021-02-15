@@ -67,7 +67,7 @@
 	 <!-- Wrapper for slides -->
 	<div class="carousel-inner">
 		<div class="item active">
-			<img src="gambar/kirayagami.jpg" class="img-rounded " alt="saske">
+			<img src="gambar/kirayagami.jpg" class="img-rounded" alt="saske">
 				<div class="carousel-caption">
 					<h3>Kira Yagami</h3>
 					<p>Use Shinigami Death Note to Become The God of New World</p>
@@ -75,7 +75,7 @@
 		</div>
 	
 		<div class="item">
-			<img src="gambar/narusasu2.jpg" class="img-rounded " alt="narusasu">
+			<img src="gambar/narusasu2jpg" class="img-rounded" alt="narusasu">
 				<div class="carousel-caption">
 					<h3>Last Battle</h3>
 					<p>The Final battle on naruto shippuden (naruto vs sasuke)</p>
