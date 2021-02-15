@@ -76,7 +76,7 @@
 		</div>
 	
 		<div class="item">
-			<img src="gambar/narusasu2jpg" class="img-rounded" alt="narusasu">
+			<img src="gambar/narusasu2.jpg" class="img-rounded" alt="narusasu">
 				<div class="carousel-caption">
 					<h3>Last Battle</h3>
 					<p>The Final battle on naruto shippuden (naruto vs sasuke)</p>
