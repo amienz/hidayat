@@ -61,6 +61,7 @@
 			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 			<li data-target="#myCarousel" data-slide-to="1"></li>
 			<li data-target="#myCarousel" data-slide-to="2"></li>
+			<li data-target="#myCarousel" data-slide-to="3"></li>
 		
 			
 		</ol>
@@ -82,11 +83,17 @@
 					<p>The Final battle on naruto shippuden (naruto vs sasuke)</p>
 				</div>
 		</div>
-	
-		
-		
+
 		<div class="item ">
 			<img src="gambar/shank2.jpg" class="img-rounded " alt="itachi">
+			<div class="carousel-caption">
+				<h3>Itachi</h3>
+				<p>The hero of the darkness become a legend</p>
+			</div>
+		</div>
+		
+		<div class="item ">
+			<img src="gambar/itachi2.jpg" class="img-rounded " alt="itachi">
 			<div class="carousel-caption">
 				<h3>Itachi</h3>
 				<p>The hero of the darkness become a legend</p>
