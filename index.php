@@ -61,6 +61,7 @@
 			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 			<li data-target="#myCarousel" data-slide-to="1"></li>
 			<li data-target="#myCarousel" data-slide-to="2"></li>
+		
 			
 		</ol>
 		
@@ -75,7 +76,7 @@
 		</div>
 	
 		<div class="item">
-			<img src="gambar/narusasu2.jpg" class="img-rounded" alt="narusasu">
+			<img src="gambar/narusasu2jpg" class="img-rounded" alt="narusasu">
 				<div class="carousel-caption">
 					<h3>Last Battle</h3>
 					<p>The Final battle on naruto shippuden (naruto vs sasuke)</p>
@@ -85,13 +86,14 @@
 		
 		
 		<div class="item ">
-			<img src="gambar/itachi2.jpg" class="img-rounded " alt="itachi">
+			<img src="gambar/shank2.jpg" class="img-rounded " alt="itachi">
 			<div class="carousel-caption">
 				<h3>Itachi</h3>
 				<p>The hero of the darkness become a legend</p>
 			</div>
 		</div>
-
+		
+	
 	</div>
 	
 	<!-- Left and right controls -->
